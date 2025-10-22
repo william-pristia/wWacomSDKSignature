@@ -118,6 +118,6 @@ end;
 
 ## Credits and Trademarks
 Wacom®, STU® and the related SDKs/drivers are trademarks of their respective owners.  
-This project is provided for **demonstration and educational purposes only**.
+This project is released under the terms of the GNU General Public License v3.0 (GPL-3.0).
 
 **Author:** William Pristia
