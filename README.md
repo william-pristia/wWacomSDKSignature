@@ -20,6 +20,8 @@ The project includes a Delphi wrapper that encapsulates the interfaces exposed b
 
 ## Requirements
 
+- REQUIRE DRIVER "Wacom-STU-Driver-5.4.5.exe"
+- REQUIRE SDK "sdk-for-signature-windows-4.8.2.zip"
 - **Wacom Signature SDK** (COM/ActiveX – `FlSigCOM.dll`)  
 - **Wacom STU drivers** installed (version noted in the unit comments)  
 - Administrative privileges to register the COM DLL (if required).
