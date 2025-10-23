@@ -33,7 +33,7 @@ var
 implementation
 
 uses
-  wylib.Thirdparts.Classes.WacomSignature;
+  WacomSignature;
 
 {$R *.dfm}
 
